@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.chineseenglishtranslator'
+    namespace ' com.translator.voice'
     compileSdk 35
 
     defaultConfig {
-        applicationId 'com.example.chineseenglishtranslator'
+        applicationId ' com.translator.voice'
         minSdk 23
         targetSdk 35
         versionCode 1
